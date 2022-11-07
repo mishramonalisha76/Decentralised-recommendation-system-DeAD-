@@ -1,4 +1,4 @@
-# Eth-Online-decentralised-recommendation-system
+# Decentralised-recommendation-system(DeAD)
 
 # DeAD
 ## A novel approach to get recommendation in a censorship resistant , user centric way.
