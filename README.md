@@ -4,7 +4,7 @@
 ## A novel approach to get recommendation in a censorship resistant , user centric way.
 
 ## Deployed Link
-https://spheron.infura-ipfs.io/ipfs/Qmcr5EpWR5T6RmsgaphRTe7rYeV2KNhUytq4zpwWQ3iQzL/
+https://decentralised-ad-recommendation-j42b.vercel.app/
 
 ## Frontend Github Repo Link
 https://github.com/mishramonalisha76/decentralised-ad-recommendation
